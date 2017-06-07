@@ -24,6 +24,10 @@ https://javascript30.com/ - 30 exercises in 30 days
 
 http://javascript.info/ - tutorial
 
+<h4>Patterns</h4>
+
+https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know - 4 patterns to know
+
 
 <h2>HTML</h2>
 
@@ -37,6 +41,8 @@ https://css-tricks.com/specifics-on-css-specificity/ - specificity
 http://learnlayout.com/ - layout
 
 http://cssreference.io/ - visual guide
+
+https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/ - flexbox playground
 
 
 <h2>LESS</h2>
