@@ -59,3 +59,5 @@ https://www.meteor.com/
 https://jsfiddle.net/ - online text editor
 
 http://remotestash.co/ - nomad resources
+
+http://mothereffinghsl.com/ - hsl color picker
