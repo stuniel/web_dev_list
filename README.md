@@ -73,3 +73,5 @@ https://jsfiddle.net/ - online text editor
 http://remotestash.co/ - nomad resources
 
 http://mothereffinghsl.com/ - hsl color picker
+
+http://keycode.info/ - keyCode number
