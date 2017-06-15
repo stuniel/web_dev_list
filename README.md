@@ -29,6 +29,11 @@ http://javascript.info/ - tutorial
 https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know - 4 patterns to know
 
 
+<h2>React</h2>
+
+https://reactforbeginners.com/ - react tutorial
+
+
 <h2>HTML</h2>
 
 http://htmlreference.io/ - visual guide
@@ -49,12 +54,19 @@ https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/ -
 
 http://winless.org/online-less-compiler
 
-<h2>MOBILE APPS</h2>
+<h2>Mobile apps</h2>
 
 https://www.meteor.com/
 
 
-<h2>COOL PAGES</h2>
+<h2>Animations</h2>
+
+https://github.com/bodymovin/bodymovin - after effects extension to responsive animations
+
+https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/ - animations performance
+
+
+<h2>Cool pages</h2>
 
 https://jsfiddle.net/ - online text editor
 
