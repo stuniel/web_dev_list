@@ -47,6 +47,8 @@ http://learnlayout.com/ - layout
 
 http://cssreference.io/ - visual guide
 
+https://flexbox.io/ - free flexbox video course
+
 https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/ - flexbox playground
 
 
