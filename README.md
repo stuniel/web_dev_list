@@ -34,6 +34,12 @@ https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know - 4 patt
 https://reactforbeginners.com/ - react tutorial
 
 
+
+<h2>Redux</h2>
+
+https://learnredux.com/ - redux tutorial
+
+
 <h2>HTML</h2>
 
 http://htmlreference.io/ - visual guide
