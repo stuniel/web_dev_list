@@ -12,7 +12,9 @@ https://skillcrush.com/2017/03/20/front-end-developer-skills/ - 10 skills of a f
 https://chrismm.com/blog/avoid-these-35-habits-that-lead-to-unmaintainable-code/ - bad habits
 
 https://simpleprogrammer.com/2016/07/18/technical-skills-software-developer/ - technical skills as a software developer
-
+ 
+https://skillcrush.com/2016/02/11/skills-to-become-a-front-end-developer/ - skills to become a frontend developer
+ 
 
 <h2>JavaScript</h2>
 
