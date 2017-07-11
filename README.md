@@ -70,6 +70,8 @@ https://www.sassmeister.com/ - SASS playground
 
 https://scotch.io/tutorials/getting-started-with-sass - getting started with SASS
 
+http://sass-lang.com/documentation/Sass/Script/Functions.html - SASS functions
+
 http://winless.org/online-less-compiler
 
 
