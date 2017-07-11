@@ -12,7 +12,7 @@ https://skillcrush.com/2017/03/20/front-end-developer-skills/ - 10 skills of a f
 https://chrismm.com/blog/avoid-these-35-habits-that-lead-to-unmaintainable-code/ - bad habits
 
 https://simpleprogrammer.com/2016/07/18/technical-skills-software-developer/ - technical skills as a software developer
- 
+
 https://skillcrush.com/2016/02/11/skills-to-become-a-front-end-developer/ - skills to become a frontend developer
  
 
@@ -41,7 +41,6 @@ https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know - 4 patt
 https://reactforbeginners.com/ - react tutorial
 
 
-
 <h2>Redux</h2>
 
 https://learnredux.com/ - redux tutorial
@@ -65,9 +64,14 @@ https://flexbox.io/ - free flexbox video course
 https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/ - flexbox playground
 
 
-<h2>LESS</h2>
+<h2>SASS / LESS</h2>
+
+https://www.sassmeister.com/ - SASS playground
+
+https://scotch.io/tutorials/getting-started-with-sass - getting started with SASS
 
 http://winless.org/online-less-compiler
+
 
 <h2>Mobile apps</h2>
 
