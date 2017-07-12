@@ -87,6 +87,11 @@ https://github.com/bodymovin/bodymovin - after effects extension to responsive a
 https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/ - animations performance
 
 
+<h2>Design</h2>
+
+https://dribbble.com/ - designers community
+
+
 <h2>Cool pages</h2>
 
 https://jsfiddle.net/ - online text editor
