@@ -29,6 +29,8 @@ https://javascript30.com/ - 30 exercises in 30 days
 http://javascript.info/ - tutorial
 
 https://tinyurl.com/tm6ryjo - function expression vs declaration 
+
+http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/ - variable scope
   
   
 <h4>Patterns</h4>
