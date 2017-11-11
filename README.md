@@ -93,6 +93,8 @@ https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/ - ani
 
 https://dribbble.com/ - designers community
 
+https://www.iconfinder.com/ - icon sets
+
 
 <h2>Cool pages</h2>
 
