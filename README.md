@@ -82,6 +82,11 @@ http://sass-lang.com/documentation/Sass/Script/Functions.html - SASS functions
 http://winless.org/online-less-compiler
 
 
+## GIT
+
+https://git-scm.com/book/en/v2 - Pro Git book
+
+
 ## Mobile apps
 
 https://www.meteor.com/
