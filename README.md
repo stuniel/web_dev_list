@@ -52,6 +52,10 @@ https://reactforbeginners.com/ - react tutorial
 
 https://learnredux.com/ - redux tutorial
 
+https://egghead.io/courses/getting-started-with-redux - redux course by Dan Abramov
+
+https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367 - when should I use Redux
+
 
 ## HTML
 
