@@ -47,6 +47,12 @@ https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know - 4 patt
 
 https://reactforbeginners.com/ - react tutorial
 
+https://tinyurl.com/ydab3uy3 - react tutorial with create-react-app
+
+https://tinyurl.com/ybtetotv - all the fundamental concepts of react 
+
+https://tinyurl.com/ybsl8p55 - great tips
+
 
 ## Redux
 
