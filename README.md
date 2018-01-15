@@ -116,6 +116,11 @@ https://dribbble.com/ - designers community
 https://www.iconfinder.com/ - icon sets
 
 
+## Editor
+
+https://www.shopify.com/partners/blog/best-atom-packages-2017 - cool atom packages
+
+
 ## Cool pages
 
 https://jsfiddle.net/ - online text editor
