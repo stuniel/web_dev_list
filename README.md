@@ -33,6 +33,13 @@ https://tinyurl.com/tm6ryjo - function expression vs declaration
 http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/ - variable scope
 
 
+#### Testing
+
+http://facebook.github.io/jest/docs/en/getting-started.html - jest
+
+http://airbnb.io/enzyme/ - enzyme
+
+
 #### Clean Code
 
 https://eslint.org/ - linting utility for JS and JSX
