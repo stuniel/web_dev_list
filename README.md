@@ -14,7 +14,14 @@ https://chrismm.com/blog/avoid-these-35-habits-that-lead-to-unmaintainable-code/
 https://simpleprogrammer.com/2016/07/18/technical-skills-software-developer/ - technical skills as a software developer
 
 https://skillcrush.com/2016/02/11/skills-to-become-a-front-end-developer/ - skills to become a frontend developer
- 
+
+
+#### Keybooard shortcuts
+
+https://support.google.com/chrome/answer/157179 - chrome shortcuts
+
+http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/ - atom shortcuts
+
 
 ## JavaScript
 
