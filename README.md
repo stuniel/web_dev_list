@@ -144,3 +144,5 @@ http://remotestash.co/ - nomad resources
 http://mothereffinghsl.com/ - hsl color picker
 
 http://keycode.info/ - keyCode number
+
+https://cdnjs.com/ - CDN JavaScript library
