@@ -15,6 +15,8 @@ https://simpleprogrammer.com/2016/07/18/technical-skills-software-developer/ - t
 
 https://skillcrush.com/2016/02/11/skills-to-become-a-front-end-developer/ - skills to become a frontend developer
 
+https://javascriptair.com/ - great JavaScript podcasts with links, tips and picks
+
 
 #### Keybooard shortcuts
 
