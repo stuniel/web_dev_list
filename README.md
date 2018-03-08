@@ -137,6 +137,11 @@ https://www.iconfinder.com/ - icon sets
 https://www.shopify.com/partners/blog/best-atom-packages-2017 - cool atom packages
 
 
+## Stacks
+
+https://stackshare.io/ - tech stacks
+
+
 ## Cool pages
 
 https://jsfiddle.net/ - online text editor
