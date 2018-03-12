@@ -43,6 +43,10 @@ https://tinyurl.com/tm6ryjo - function expression vs declaration
 
 http://javascriptissexy.com/javascript-variable-scope-and-hoisting-explained/ - variable scope
 
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea - functional programming and compositional software techniques in JavaScript 
+
+https://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/ - mutating and non-mutating practices
+
 
 #### Testing
 
