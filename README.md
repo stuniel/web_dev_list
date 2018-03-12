@@ -29,6 +29,8 @@ http://sweetme.at/2014/03/10/atom-editor-cheat-sheet/ - atom shortcuts
 
 http://eloquentjavascript.net/ - awesome book about javascript fundamentals
 
+https://leanpub.com/javascriptallongesix/read - a book about programming with functions
+
 https://github.com/getify/You-Dont-Know-JS - book series - advanced js
 
 https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q - fun video tutorials
