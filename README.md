@@ -1,6 +1,18 @@
 # web_dev_list
 List of all collected links to books, articles and pages about web development.
 
+## Index
+
+* [Articles & Tips](https://github.com/stuniel/web_dev_list/blob/master/README.md#articles--tips)
+* [JavaScript](https://github.com/stuniel/web_dev_list/blob/master/README.md#javascript)
+* [HTML](https://github.com/stuniel/web_dev_list/blob/master/README.md#html)
+* [CSS](https://github.com/stuniel/web_dev_list/blob/master/README.md#css)
+* [GIT](https://github.com/stuniel/web_dev_list/blob/master/README.md#git)
+* [Architecture](https://github.com/stuniel/web_dev_list/blob/master/Architecture.md)
+* [Mobile Web](https://github.com/stuniel/web_dev_list/blob/master/Mobile_Web.md)
+* [Cool Pages](https://github.com/stuniel/web_dev_list/blob/master/README.md#cool-pages)
+
+
 ## Articles & Tips
 
 https://goo.gl/9lQ0ii - journey of a web developer
@@ -117,11 +129,6 @@ http://winless.org/online-less-compiler
 ## GIT
 
 https://git-scm.com/book/en/v2 - Pro Git book
-
-
-## Mobile apps
-
-https://www.meteor.com/
 
 
 ## Animations
