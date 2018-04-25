@@ -15,6 +15,8 @@ List of all collected links to books, articles and pages about web development.
 
 ## Articles & Tips
 
+https://www.classroomies.com/ - online CS classes from Stanford
+
 https://goo.gl/9lQ0ii - journey of a web developer
 
 https://github.com/kamranahmedse/developer-roadmap - web developer roadmap
