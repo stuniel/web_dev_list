@@ -152,6 +152,8 @@ https://www.iconfinder.com/ - icon sets
 
 https://www.shopify.com/partners/blog/best-atom-packages-2017 - cool atom packages
 
+https://github.com/supnate/rekit - IDE for React and Redux development
+
 
 ## Stacks
 
