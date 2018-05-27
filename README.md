@@ -12,6 +12,7 @@ List of all collected links to books, articles and pages about web development.
 * [Mobile Web](https://github.com/stuniel/web_dev_list/blob/master/Mobile_Web.md)
 * [Regular Expressions](https://github.com/stuniel/web_dev_list/blob/master/README.md#regular-expressions)
 * [Cool Pages](https://github.com/stuniel/web_dev_list/blob/master/README.md#cool-pages)
+* [Web Accessibility](https://github.com/stuniel/web_dev_list/blob/master/README.md#web-accessibility)
 
 
 ## Articles & Tips
@@ -180,3 +181,8 @@ http://mothereffinghsl.com/ - hsl color picker
 http://keycode.info/ - keyCode number
 
 https://cdnjs.com/ - CDN JavaScript library
+
+
+## Web Accessibility
+
+https://www.w3.org/TR/wai-aria-practices-1.1/ - WAI-ARIA practices
