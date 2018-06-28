@@ -10,8 +10,10 @@ List of all collected links to books, articles and pages about web development.
 * [GIT](https://github.com/stuniel/web_dev_list/blob/master/README.md#git)
 * [Architecture](https://github.com/stuniel/web_dev_list/blob/master/Architecture.md)
 * [Mobile Web](https://github.com/stuniel/web_dev_list/blob/master/Mobile_Web.md)
+* [IDE](https://github.com/stuniel/web_dev_list/blob/master/README.md#ide)
 * [Regular Expressions](https://github.com/stuniel/web_dev_list/blob/master/README.md#regular-expressions)
 * [Cool Pages](https://github.com/stuniel/web_dev_list/blob/master/README.md#cool-pages)
+* [Browser Support](https://github.com/stuniel/web_dev_list/blob/master/README.md#browser-support)
 * [Web Accessibility](https://github.com/stuniel/web_dev_list/blob/master/README.md#web-accessibility)
 
 
@@ -151,9 +153,15 @@ https://dribbble.com/ - designers community
 https://www.iconfinder.com/ - icon sets
 
 
-## Editor
+## IDE
+
+#### Atom
+
+https://flight-manual.atom.io/using-atom/sections/snippets/ - create custom code snippets
 
 https://www.shopify.com/partners/blog/best-atom-packages-2017 - cool atom packages
+
+#### Other
 
 https://github.com/supnate/rekit - IDE for React and Redux development
 
@@ -183,6 +191,11 @@ http://mothereffinghsl.com/ - hsl color picker
 http://keycode.info/ - keyCode number
 
 https://cdnjs.com/ - CDN JavaScript library
+
+
+## Browser Support
+
+https://caniuse.com - Browser support tables for modern web technologies
 
 
 ## Web Accessibility
