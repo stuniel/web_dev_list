@@ -66,6 +66,11 @@ https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d
 https://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/ - mutating and non-mutating practices
 
 
+#### Documentation
+
+http://usejsdoc.org - API documentation generator for JavaScript
+
+
 #### Testing
 
 http://facebook.github.io/jest/docs/en/getting-started.html - jest
