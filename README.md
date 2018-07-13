@@ -150,6 +150,8 @@ https://github.com/bodymovin/bodymovin - after effects extension to responsive a
 
 https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/ - animations performance
 
+https://css-tricks.com/controlling-css-animations-transitions-javascript/ - controlling css animations with JS
+
 
 ## Design
 
