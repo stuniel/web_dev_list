@@ -35,6 +35,8 @@ https://skillcrush.com/2016/02/11/skills-to-become-a-front-end-developer/ - skil
 
 https://javascriptair.com/ - great JavaScript podcasts with links, tips and picks
 
+https://devhints.io/ - TL;DR for developer documentation
+
 
 #### Keybooard shortcuts
 
