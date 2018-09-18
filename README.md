@@ -38,7 +38,7 @@ https://javascriptair.com/ - great JavaScript podcasts with links, tips and pick
 https://devhints.io/ - TL;DR for developer documentation
 
 
-#### Keybooard shortcuts
+### Keybooard shortcuts
 
 https://support.google.com/chrome/answer/157179 - chrome shortcuts
 
@@ -68,27 +68,30 @@ https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d
 https://lorenstewart.me/2017/01/22/javascript-array-methods-mutating-vs-non-mutating/ - mutating and non-mutating practices
 
 
-#### Documentation
+### Documentation
 
 http://usejsdoc.org - API documentation generator for JavaScript
 
 
-#### Testing
+### Testing
 
 http://facebook.github.io/jest/docs/en/getting-started.html - jest
 
 http://airbnb.io/enzyme/ - enzyme
 
 
-#### Clean Code
+### Clean Code
 
 https://eslint.org/ - linting utility for JS and JSX
   
   
-#### Patterns
+### Patterns
 
 https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know - 4 patterns to know
 
+### Debugging
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints - using breakpoints
 
 ## React
 
@@ -164,13 +167,13 @@ https://www.iconfinder.com/ - icon sets
 
 ## IDE
 
-#### Atom
+### Atom
 
 https://flight-manual.atom.io/using-atom/sections/snippets/ - create custom code snippets
 
 https://www.shopify.com/partners/blog/best-atom-packages-2017 - cool atom packages
 
-#### Other
+### Other
 
 https://github.com/supnate/rekit - IDE for React and Redux development
 
