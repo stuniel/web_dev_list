@@ -91,7 +91,8 @@ https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know - 4 patt
 
 ### Debugging
 
-https://developers.google.com/web/tools/chrome-devtools/javascript/breakpoints - using breakpoints
+https://developers.google.com/web/tools/chrome-devtools/ - Chrome DevTools
+
 
 ## React
 
